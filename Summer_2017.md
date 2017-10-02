@@ -7,7 +7,7 @@
 * New Students
 
 # Wifi
-- [ ] Mount new access points
+- [X] Mount new access points
 * Access controllers across subnets
 * Guest Network
 * Radius JumpSoft or Local
